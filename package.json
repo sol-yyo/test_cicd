@@ -7,6 +7,7 @@
     "react-dom": "^16.4.1",
     "react-scripts": "0.9.5"
   },
+  "homepage": "http://sol-yyo.github.io/myapp",
   "devDependencies": {},
   "scripts": {
     "start": "react-scripts start",
